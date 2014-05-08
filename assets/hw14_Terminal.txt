@@ -1,0 +1,29 @@
+$ l
+pom.xml  src/  target/
+$ mvn compile exec:java -Dexec.mainClass=com.tengen.Week1Homework4
+[INFO] Scanning for projects...
+[INFO] Searching repository for plugin with prefix: 'exec'.
+[INFO] ------------------------------------------------------------------------
+[INFO] Building M101J
+[INFO]    task-segment: [compile, exec:java]
+[INFO] ------------------------------------------------------------------------
+[INFO] [resources:resources {execution: default-resources}]
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] snapshot spark:spark:0.9.9.4-SNAPSHOT: checking for updates from Spark repository
+Downloading: http://www.sparkjava.com/nexus/content/repositories/spark//org/slf4j/slf4j-simple/1.6.4/slf4j-simple-1.6.4.pom
+[INFO] Unable to find resource 'org.slf4j:slf4j-simple:pom:1.6.4' in repository Spark repository (http://www.sparkjava.com/nexus/content/repositories/spark/)
+Downloading: http://repo1.maven.org/maven2/org/slf4j/slf4j-simple/1.6.4/slf4j-simple-1.6.4.pom
+1K downloaded  (slf4j-simple-1.6.4.pom)
+Downloading: http://www.sparkjava.com/nexus/content/repositories/spark//org/slf4j/slf4j-simple/1.6.4/slf4j-simple-1.6.4.jar
+[INFO] Unable to find resource 'org.slf4j:slf4j-simple:jar:1.6.4' in repository Spark repository (http://www.sparkjava.com/nexus/content/repositories/spark/)
+Downloading: http://repo1.maven.org/maven2/org/slf4j/slf4j-simple/1.6.4/slf4j-simple-1.6.4.jar
+7K downloaded  (slf4j-simple-1.6.4.jar)
+[INFO] [compiler:compile {execution: default-compile}]
+[INFO] Nothing to compile - all classes are up to date
+[INFO] [exec:java {execution: default-cli}]
+[WARNING] Warning: killAfter is now deprecated. Do you need it ? Please comment on MEXEC-6.
+== Spark has ignited ...
+>> Listening on 0.0.0.0:4567
+636 [Thread-2] INFO org.eclipse.jetty.util.log - jetty-7.3.0.v20110203
+710 [Thread-2] INFO org.eclipse.jetty.util.log - Started SocketConnector@0.0.0.0:4567

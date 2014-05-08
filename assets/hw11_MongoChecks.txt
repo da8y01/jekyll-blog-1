@@ -1,0 +1,34 @@
+> show dbs
+admin    (empty)
+blog     0.078GB
+enron    0.953GB
+final7   0.078GB
+local    0.078GB
+school   0.078GB
+test     0.078GB
+weather  0.078GB
+> show dbs
+admin    (empty)
+blog     0.078GB
+enron    0.953GB
+final7   0.078GB
+local    0.078GB
+m101     0.078GB
+school   0.078GB
+test     0.078GB
+weather  0.078GB
+> use m101
+switched to db m101
+> show tables
+funnynumbers
+hw1
+system.indexes
+> db.hw1.count()
+1
+> db.hw1.findOne()
+{
+	"_id" : ObjectId("50773061bf44c220307d8514"),
+	"answer" : 42,
+	"question" : "The Ultimate Question of Life, The Universe and Everything"
+}
+>

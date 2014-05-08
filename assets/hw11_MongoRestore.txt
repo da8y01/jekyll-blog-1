@@ -1,0 +1,13 @@
+$ l
+dump/
+$ /opt/mongodb-linux-i686-2.6.0/bin/mongorestore 
+connected to: 127.0.0.1
+2014-05-07T11:03:39.465-0500 dump/m101/hw1.bson
+2014-05-07T11:03:39.466-0500 	going into namespace [m101.hw1]
+1 objects found
+2014-05-07T11:03:39.514-0500 	Creating index: { key: { _id: 1 }, ns: "m101.hw1", name: "_id_" }
+2014-05-07T11:03:39.595-0500 dump/m101/funnynumbers.bson
+2014-05-07T11:03:39.595-0500 	going into namespace [m101.funnynumbers]
+100 objects found
+2014-05-07T11:03:39.598-0500 	Creating index: { key: { _id: 1 }, ns: "m101.funnynumbers", name: "_id_" }
+$

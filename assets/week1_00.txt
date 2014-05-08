@@ -1,0 +1,50 @@
+M101J: MongoDB for Java Developers. Week 1: Introduction.
+
+10gen, course, curso, db, education, freemarker, java, m101, m101j, mongo, mongodb, nosql, spark, university, week1
+
+
+
+INTRODUCTION
+Following are presented the contents and answers to the HomeWorks belonging to Week 1 (Introduction) for "M101J: MongoDB for Java Developers" course offered by https://university.mongodb.com/ started at 2014-03-17.
+
+
+
+HOMEWORK 1.1
+ANSWER HOMEWORK 1.1:
+Simply it was about verifying the correct MongoDB installation, example data import and basic query execution over those imported data:
+
+
+
+HOMEWORK 1.2
+ANSWER HOMEWORK 1.2:
+Simple theoretic question answered having the notion of JSON structure and syntax, see http://www.json.org/ .
+
+
+
+HOMEWORK 1.3
+ANSWER HOMEWORK 1.3:
+Like HW 1.1, it was about verifying the correct MongoDB installation and example data import, furthermore installation and correctness of JDK, Maven, mongo java driver and others.
+
+Whole Maven project was provided by course, with his pom.xml file, packages, classes and others; here is shown the main file Week1Homework3.java:
+
+
+
+HOMEWORK 1.4
+ANSWER HOMEWORK 1.4:
+Like HW's 1.1 and 1.3, it was about verifying the correctness of MongoDB installation, example data import, JDK, Maven, mongo java driver, furthermore Spark, Freemarker and others.
+
+Whole Maven project was provided by course, with his pom.xml file, packages, classes and others; here is shown the main file Week1Homework4.java:
+
+
+
+PROGRESS
+
+
+
+REFERENCES
+https://university.mongodb.com/
+http://api.mongodb.org/
+http://www.mongodb.com/
+http://hao-deng.blogspot.com/search/label/Mongodb
+http://ankurthetechie.blogspot.com/2013/09/final-exam-answers-with-explanation-for.html
+http://techinote.com/mongodb-final-exam/
