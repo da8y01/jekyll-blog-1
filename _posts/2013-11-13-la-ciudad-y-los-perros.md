@@ -427,7 +427,7 @@ Se sentía débil, como si convaleciera de una enfermedad larga y penosa.
 
 El sentía su corazón palpitando con escándalo.
 
-Entonces comprendío: <<ella está de su lado, es su cómplice>>. Decidió ser cauteloso, ya no podía fiarse de su madre. Estaba solo.
+Entonces comprendió: "ella está de su lado, es su cómplice". Decidió ser cauteloso, ya no podía fiarse de su madre. Estaba solo.
 
 Él había sumido la cabeza entre los brazos: sus ojos exploraban un minúsculo universo en tinieblas. Sus oídos percibían una bulliciosa excitación: cuerpos que se estiran o recogen, risas ahogadas, el resuello frenético de otro.
 
@@ -443,7 +443,7 @@ ni si quiera como él, que podía desdoblarse y disimular para que los otros no 
 
 Estaba sorprendido: debería sentirse excitado o aterrado, algún trastorno físico debía recordarle la delación. Creía que los criminales, después de cometer un asesinato, se hundían en un vértigo y quedaban como hipnotizados. Él sólo tenía indeferencia.
 
-<<No puedo fiarme de nadie, pensó. ¿Por qué todos son mis enemigos?>>
+"No puedo fiarme de nadie, pensó. ¿Por qué todos son mis enemigos?"
 
 Un leve temblor en las manos: fue la única reacción de su cuerpo al empujar los batientes de la cuadra y verlo, de pie junto al ropero.
 
@@ -451,7 +451,7 @@ sabían que poniéndose cáscaras de plátano en la frente un par de horas, la t
 
 Negro que ladra no muerde.
 
-Pensó: <<en el fondo, todos ellos son amigos. Se insultan y se pelean de la boca para afuera, pero en el fondo se divierten juntos. Sólo a mi me miran como a un extraño.>>
+Pensó: "en el fondo, todos ellos son amigos. Se insultan y se pelean de la boca para afuera, pero en el fondo se divierten juntos. Sólo a mi me miran como a un extraño."
 
 sólo en la última comenzó a sentir que la modorra invadía su cuerpo y surgió la tentación de soltar el lapicero y pensar en cosas vagas.
 
@@ -601,7 +601,7 @@ afirmó que Dios mandaba siempre las peores desgracias a las familias más buena
 
 me sentía enfermo de miedo.
 
-<<Todo parece un cementerio, nos dijo. No hay ni gatos.>>
+"Todo parece un cementerio, nos dijo. No hay ni gatos."
 
 como él lo mira con indiferencia, se encoge de hombros y cierra la puerta.
 
@@ -645,7 +645,7 @@ Y algunos incluso se reían, lastima el corazón ver gente así, tipos sin alma 
 
 Algo así debe ser cuando uno se casa.
 
-<<Le dije, eres lo más maricón que he visto nunca; cuando las cosas se ponen feas calumnias a los compañeros.>>
+"Le dije, eres lo más maricón que he visto nunca; cuando las cosas se ponen feas calumnias a los compañeros."
 
 Examinó sus facciones inmóviles, trató de recordar; inútil, el rostro se confundía con otros, aunque le era vagamente familiar, no por sus rasgos, sino por la expresión anticipadamente madura: tenía las mandíbulas apretadas, el ceño grave, el mentón hendido.
 
@@ -679,7 +679,7 @@ Y no vuelva a buscarle tres pies al gato sabiendo que tiene cuatro.
 
 Me dió cólera y me le fui encima.
 
-<<no se desesperen, maldita sea>>.
+"no se desesperen, maldita sea".
 
 No sé qué les puede importar mi vida.
 
@@ -707,7 +707,7 @@ Hablaba con lentitud, buscando fórmulas impersonales y economizando palabras.
 
 Hasta algunas semanas atrás, nunca había recordado el pasado, ocupaba su tiempo libre en hacer planes para el futuro. Sus objetivos se habían realizado hasta ahora.
 
-<<El orden y la disciplina consituyen la justicia -recitó, con una sonrisa ácida en los labios-, y son los instrumentos indispensables de una vida colectiva racional. El orden y la disciplina se obtienen adecuando la realidad a las leyes.>>
+"El orden y la disciplina consituyen la justicia -recitó, con una sonrisa ácida en los labios-, y son los instrumentos indispensables de una vida colectiva racional. El orden y la disciplina se obtienen adecuando la realidad a las leyes."
 
 Imponer la disciplina había sido hasta ahora, tan fácil como obedecerla.
 
@@ -715,7 +715,7 @@ Imponer la disciplina había sido hasta ahora, tan fácil como obedecerla.
 
 Hizo un gesto de hastío.
 
-<<Lo que me haría bien esta noche, pensó, es una buena borrachera.>>
+"Lo que me haría bien esta noche, pensó, es una buena borrachera."
 
 Caminaba con las manos cogidas a la espalda.
 
@@ -729,7 +729,7 @@ Rió con su risa despectiva y sin alegría que no había vuelto a oír desde ant
 
 -Yo les enseñé a ser hombres a todos ésos -dijo el Jaguar-. ¿Crees que me importan? Por mí, pueden irse a la mierda todos. No me interesa lo que piensen. Y tú tampoco. Lárgate.
 
-<<Quien con mocosos se acuesta...>>
+"Quien con mocosos se acuesta..."
 
 quedó inmóvil, con la mirada perdida.
 
@@ -761,7 +761,7 @@ bajo su mano, latía una piel suave, tibia, que debía ser tocada con prudencia,
 
 Seguía intranquilo.
 
-<<Bien, dijo el coronel. Muy bien. La Patria necesita técnicos. Hace usted bien, es una profesión útil. Le deseo mucha suerte.>>
+"Bien, dijo el coronel. Muy bien. La Patria necesita técnicos. Hace usted bien, es una profesión útil. Le deseo mucha suerte."
 
 Caminaba de vuelta a su casa, ensimismado, aturdido.
 
@@ -775,7 +775,7 @@ pero todo su cuerpo se serenó y desaparecieron el malestar, la agitación de su
 
 Nuevamente, tenía la copa de pisco en la mano y la movía con inteligencia.
 
-<<me gusta ver cómo se suicida la gente. Cásese no más, y el próximo lunes está usted aquí, a las ocho en punto.>>
+"me gusta ver cómo se suicida la gente. Cásese no más, y el próximo lunes está usted aquí, a las ocho en punto."
 
 Pasé un mal rato.
 
@@ -790,7 +790,7 @@ No tengo ni un cobre.
 
 
 ## TÉRMINOS
-cadete, hediondez, tibio, desmesurado, litera, serenidad, sereno, murmullo, bulla, bullicio, *batiente*, ansiedad, *timba*, sumergido, sumergir, eludiendo, eludir, *vicuña*, encolerizar, *impávido*, *mimeógrafo*, dormitar, *estribillo*, *embotar*, lecho, hostil, soledad, *disipar*, *fulgor*, baranda, oscurecer, frágil, *patético*, escruta, *tarado*, yergue, erguir, *prócer*, *epónimo*, *sosegado*, *sosegar*, *febril*, desvariar, umbral, despreciar, *porfiado*, *porfiar*, fregado, fregar, *cojudo*, *apacible*, *asentir*, *frenético*, *frenesí*, erigir, *insolente*, *insolencia*, agazapado, agazapar, estrépito, *rampar*, *rampante*, *manducar*, *pichula*, *pánfilo*, constipar, *respingado*, *respingar*, zafar, *caracho*, desdibujado, percibir, *conmoción*, blasfemia, apaciguar, audaz, audacia, *adusto*, palidecer, cristina, ñizca, pizca, *melifluo*, cadencia, *garúa*, biombo, escuálido, cohibido, cohibir, *guargüero*, tapia, *chacra*, zurcido, zurcir, dócil, docilidad, *andanada*, *fundillo*, pelambre, *arcada*, colérico, pómulo, mentón, *mueca*, *insinuar*, *insinuación*, enervado, enervar, represalia, ensañamiento, avidez, *solícito*, júbilo, angustia, casual, escarapela, lívido, ánimo, *chancón*, *empollón*, redil, aturdir, aturdido, *euforia*, *eufórico*, geranios, estremecer, anhelar, anhelante, fervor, polémica, *algazara*, *calado*, extenuante, *pugilato*, perpetuo, ultraje, *cataplasma*, *carcoso*, *calistenia*, *zuza*, *cogote*, *aspaviento*, *lisura*, *implacable*, buhardilla, *abatimiento*, *abatir*, atormentar, delatar, *balbucear*, *vociferar*, vertiginoso, cómodo, *escrúpulo*, *beato*, *beatífico*, *hurgar*, raquítico, *vehemencia*, *aséptico*, *asepsia*, *séptico*, *acicalado*, *acicalar*, *resignación*, *resignar*, desenvuelto, *ademanes*, *ademán*, *absurdo*, *solemne*, sollozo, clamar, *ventrudo*, *zambo*, *esbelto*, *cholifacio*, chisporrotear, *simpático*, *locuaz*, *locuacidad*, *obstinado*, perpetuo, penumbra, *rencor*, *cínico*, *cinismo*, *impúdico*, *procaz*, efímero, *melancólico*, fogoso, *despectivo*, *aludido*, *aludir*, *ralo*, moral, maligno, ambular, jovial, superfluo, *cauteloso*, *cautela*, *paulatino*, *sometimiento*, *someter*, *tumefacto*, *tumefacción*, estruendo, *exacerbado*, *exacerbar*, liviano, gracioso, *acezar*, *jadear*, *tísico*, lánguido, *altanero*, *altanería*, *soberbio*, *soberbia*, *altivo*, resuello, lóbrego, siniestro, *indiferencia*, *indiferente*, laxo, *modorra*, *algarabía*, *fragor*, adular, turbación, turbar, *obsecuente*, *sibilino*, *sibila*, pugna, pugnar, *mustio*, *calato*, anacrónico, *huachafa*, *agobiado*, *agobiante*, *agobiar*, anegado, anegar, *desdeñar*, *desdén*, gesto, *treta*, *energúmeno*, *letargo*, *crisma*, *malea*, *malear*, *eriácia* (159), *escindido*, *escindir*, acequia, acequiar, *sinuoso*, *mandil*, *vermuth*, recelo, recelar, *zozobra*, *abrumado*, *abrumar*, *aliciente*, rosquetón, *sonso*, *tirria*, *zumbara*, *zumbar*, *macetado*, *macetar*, *fatiga*, *fatigar*, *mezquino*, *acentuar*, enderezar, lúgubre, *exasperar*, *contrito*, *contrición*, *emancipado*, *emancipar*, lacónico, *fofo*, *inmarcesible*, *chueco*, *torcido*, *estevado*, *esteva*, malicioso, *galantería*, tortuoso, celosía, *gallardo*, *gallardía*, *exangüe*, *desconcertado*, *desconcertar*, *pasmo*, *pasmar*, *perplejo*, *pascana*, posada, *jarana*, *matoneo*, *matonear*, mollera, parapeto, *impasible*, *impasibilidad*, deliberado, *zape*, puchero, pesadumbre, meloso, melosería, *zalamero*, *zalamería*, *chivato*, soplón, *cachimba*, pipa, tunda, tundir, muelle, *vozarrón*, fusilero, *engrío*, *engreír*, *engreído*, *severo*, *severidad*, tranquilo, tranquilidad, careo, carear, *sorna*, abjstrajo, abstraer, *grandilocuente*, *grandilocuencia*, prudente, cautivante, cautivar, *flagrante*, *flagrancia*, *flagra*, beligerante, beligerancia, fumatélico, *bulin*, *chingana*, *yunta*, *chaveta*, *cuete*, *empacho*, *empachar*, *inasible*, injurioso, injuriar, injuria, enojoso, enojo, *paroxismo*, *estentóreo*, pérfido, mordacidad, mordaz, *atolondrado*, *ascua*, absceso, ígneo, árido, *sensato*, *hastío*, *hastiar*, *incumbe*, *incumbir*, *renguear*, *renquear*, *renco*, *enclenque*, exiliado, exilio, exiliar, *ínfula*, *huraño*, asediar, exaltado, exaltar, *efusivo*, *efusividad*, ensimismado, ensimismarse, banal, chato, *moscardón*, insólito, *chistar*, obsequiosidad, obsequioso, desdoblarse, desdoblar, *disimular*, *disimulo*, *delación*, estratagema, *morisqueta*, tergiversar, deplorar, despanzurrar, hendido, hendir, hender, precaución, monótono, monotonía, invadir, zambullir, catástrofe.
+cadete, hediondez, tibio, desmesurado, litera, serenidad, sereno, murmullo, bulla, bullicio, *batiente*, ansiedad, ***timba***, sumergido, sumergir, eludiendo, eludir, *vicuña*, encolerizar, *impávido*, *mimeógrafo*, dormitar, *estribillo*, *embotar*, lecho, hostil, soledad, *disipar*, *fulgor*, baranda, oscurecer, frágil, *patético*, escruta, *tarado*, yergue, erguir, *prócer*, *epónimo*, *sosegado*, *sosegar*, *febril*, desvariar, umbral, despreciar, *porfiado*, *porfiar*, fregado, fregar, *cojudo*, *apacible*, *asentir*, *frenético*, *frenesí*, erigir, *insolente*, *insolencia*, agazapado, agazapar, estrépito, *rampar*, *rampante*, *manducar*, *pichula*, *pánfilo*, constipar, *respingado*, *respingar*, zafar, *caracho*, desdibujado, percibir, *conmoción*, blasfemia, apaciguar, audaz, audacia, *adusto*, palidecer, cristina, **ñizca**, pizca, *melifluo*, cadencia, **garúa**, biombo, escuálido, cohibido, cohibir, *guargüero*, tapia, *chacra*, zurcido, zurcir, dócil, docilidad, *andanada*, *fundillo*, pelambre, *arcada*, colérico, pómulo, mentón, *mueca*, *insinuar*, *insinuación*, enervado, enervar, represalia, ensañamiento, avidez, *solícito*, júbilo, angustia, casual, escarapela, lívido, ánimo, *chancón*, *empollón*, redil, aturdir, aturdido, *euforia*, *eufórico*, geranios, estremecer, anhelar, anhelante, fervor, polémica, *algazara*, *calado*, extenuante, **pugilato**, perpetuo, ultraje, *cataplasma*, *carcoso*, **calistenia**, *zuza*, *cogote*, ***aspaviento***, **lisura**, **implacable**, buhardilla, *abatimiento*, *abatir*, atormentar, delatar, **balbucear**, **vociferar**, vertiginoso, cómodo, **escrúpulo**, **beato**, **beatífico**, *hurgar*, raquítico, **vehemencia**, *aséptico*, *asepsia*, *séptico*, *acicalado*, *acicalar*, **resignación**, **resignar**, desenvuelto, **ademanes**, **ademán**, *absurdo*, *solemne*, sollozo, clamar, *ventrudo*, *zambo*, **esbelto**, *cholifacio*, chisporrotear, **simpático**, **locuaz**, **locuacidad**, *obstinado*, perpetuo, penumbra, **rencor**, **cínico**, **cinismo**, *impúdico*, ***procaz***, efímero, **melancólico**, fogoso, *despectivo*, **aludido**, **aludir**, **ralo**, moral, maligno, ambular, jovial, superfluo, **cauteloso**, **cautela**, **paulatino**, *sometimiento*, *someter*, **tumefacto**, **tumefacción**, estruendo, **exacerbado**, **exacerbar**, liviano, gracioso, **acezar**, *jadear*, **tísico**, lánguido, **altanero**, **altanería**, **soberbio**, **soberbia**, **altivo**, resuello, lóbrego, siniestro, **indiferencia**, **indiferente**, laxo, **modorra**, *algarabía*, **fragor**, adular, turbación, turbar, *obsecuente*, **sibilino**, **sibila**, pugna, pugnar, ***mustio***, **calato**, anacrónico, ***huachafa***, **agobiado**, **agobiante**, **agobiar**, anegado, anegar, **desdeñar**, **desdén**, gesto, **treta**, ***energúmeno***, **letargo**, **crisma**, *malea*, *malear*, ***eriácia*** (159), *escindido*, *escindir*, acequia, acequiar, **sinuoso**, **mandil**, **vermuth**, recelo, recelar, **zozobra**, **abrumado**, **abrumar**, **aliciente**, rosquetón, ***sonso***, ***tirria***, *zumbara*, *zumbar*, **macetado**, *macetar*, *fatiga*, *fatigar*, **mezquino**, *acentuar*, enderezar, lúgubre, *exasperar*, **contrito**, **contrición**, **emancipado**, **emancipar**, lacónico, ***fofo***, *inmarcesible*, *chueco*, *torcido*, **estevado**, **esteva**, malicioso, *galantería*, tortuoso, celosía, ***gallardo***, ***gallardía***, *exangüe*, *desconcertado*, *desconcertar*, *pasmo*, *pasmar*, *perplejo*, ***pascana***, posada, **jarana**, *matoneo*, *matonear*, mollera, parapeto, ***impasible***, ***impasibilidad***, deliberado, ***zape***, puchero, pesadumbre, meloso, melosería, **zalamero**, **zalamería**, **chivato**, soplón, ***cachimba***, pipa, tunda, tundir, muelle, *vozarrón*, fusilero, **engrío**, **engreír**, **engreído**, *severo*, *severidad*, tranquilo, tranquilidad, careo, carear, ***sorna***, abjstrajo, abstraer, **grandilocuente**, **grandilocuencia**, prudente, cautivante, cautivar, *flagrante*, *flagrancia*, *flagra*, beligerante, beligerancia, fumatélico, ***bulin***, ***chingana***, *yunta*, **chaveta**, ***cuete***, ***empacho***, ***empachar***, *inasible*, injurioso, injuriar, injuria, enojoso, enojo, **paroxismo**, *estentóreo*, pérfido, mordacidad, mordaz, **atolondrado**, **ascua**, absceso, ígneo, árido, *sensato*, *hastío*, *hastiar*, **incumbe**, **incumbir**, **renguear**, **renquear**, **renco**, **enclenque**, exiliado, exilio, exiliar, **ínfula**, **huraño**, asediar, exaltado, exaltar, *efusivo*, *efusividad*, ensimismado, ensimismarse, **banal**, chato, ***moscardón***, insólito, **chistar**, obsequiosidad, obsequioso, desdoblarse, desdoblar, ***disimular***, ***disimulo***, ***delación***, estratagema, ***morisqueta***, tergiversar, deplorar, despanzurrar, hendido, hendir, hender, precaución, monótono, monotonía, invadir, zambullir, catástrofe.
 
 
 
