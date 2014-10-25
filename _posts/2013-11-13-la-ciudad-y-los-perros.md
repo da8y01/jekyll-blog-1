@@ -805,4 +805,4 @@ cadete, hediondez, tibio, desmesurado, litera, serenidad, sereno, murmullo, bull
 [2]: http://es.wikipedia.org/wiki/Mario_Vargas_Llosa
 [3]: http://www.youtube.com/watch?v=RCT79BdF-tE
 
-[LaCiudadYLosPerros]: /assets/LaCiudadYLosPerros.jpg "La ciudad y los perros"
+[LaCiudadYLosPerros]: {{ site.baseurl }}/assets/LaCiudadYLosPerros.jpg "La ciudad y los perros"
