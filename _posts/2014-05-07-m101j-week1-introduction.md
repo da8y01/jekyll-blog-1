@@ -383,18 +383,18 @@ Finally, the result obtained browsing to the recently launched Spark web applica
 [5]: http://ankurthetechie.blogspot.com/2013/09/final-exam-answers-with-explanation-for.html
 [6]: http://techinote.com/mongodb-final-exam/
 
-[hw11_Statement1]: /assets/hw11_Statement1.png
-[hw11_Statement2]: /assets/hw11_Statement2.png
-[hw12_Statement]: /assets/hw12_Statement.png
-[hw13_Statement1]: /assets/hw13_Statement1.png
-[hw13_Statement2]: /assets/hw13_Statement2.png
-[hw14_Statement1]: /assets/hw14_Statement1.png
-[hw14_Statement2]: /assets/hw14_Statement2.png
-[progress]: /assets/progress.png
+[hw11_Statement1]: {{ site.baseurl }}/assets/hw11_Statement1.png
+[hw11_Statement2]: {{ site.baseurl }}/assets/hw11_Statement2.png
+[hw12_Statement]: {{ site.baseurl }}/assets/hw12_Statement.png
+[hw13_Statement1]: {{ site.baseurl }}/assets/hw13_Statement1.png
+[hw13_Statement2]: {{ site.baseurl }}/assets/hw13_Statement2.png
+[hw14_Statement1]: {{ site.baseurl }}/assets/hw14_Statement1.png
+[hw14_Statement2]: {{ site.baseurl }}/assets/hw14_Statement2.png
+[progress]: {{ site.baseurl }}/assets/progress.png
 
-[hw11_MongoRestore]: /assets/hw11_MongoRestore.png
-[hw11_MongoChecks]: /assets/hw11_MongoChecks.png
-[hw13_Terminal1]: /assets/hw13_Terminal1.png
-[hw13_Terminal2]: /assets/hw13_Terminal2.png
-[hw14_Terminal]: /assets/hw14_Terminal.png
-[hw14_Browser]: /assets/hw14_Browser.png
+[hw11_MongoRestore]: {{ site.baseurl }}/assets/hw11_MongoRestore.png
+[hw11_MongoChecks]: {{ site.baseurl }}/assets/hw11_MongoChecks.png
+[hw13_Terminal1]: {{ site.baseurl }}/assets/hw13_Terminal1.png
+[hw13_Terminal2]: {{ site.baseurl }}/assets/hw13_Terminal2.png
+[hw14_Terminal]: {{ site.baseurl }}/assets/hw14_Terminal.png
+[hw14_Browser]: {{ site.baseurl }}/assets/hw14_Browser.png

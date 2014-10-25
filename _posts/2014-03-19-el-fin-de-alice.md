@@ -280,5 +280,5 @@ zafio, exiguo, espeluznante, mendicante, carcaj, aljaba, vaho, empapuzar, abreva
 [2]: http://es.wikipedia.org/wiki/A.M._Homes
 [3]: http://www.revistaarcadia.com/Imprimir.aspx?idItem=26370
 
-[ElFinDeAlice_front]: /assets/ElFinDeAlice_front.jpg "El fin de Alice (portada)"
-[ElFinDeAlice_back]: /assets/ElFinDeAlice_back.jpg "El fin de Alice (contra-portada)"
+[ElFinDeAlice_front]: {{ site.baseurl }}/assets/ElFinDeAlice_front.jpg "El fin de Alice (portada)"
+[ElFinDeAlice_back]: {{ site.baseurl }}/assets/ElFinDeAlice_back.jpg "El fin de Alice (contra-portada)"

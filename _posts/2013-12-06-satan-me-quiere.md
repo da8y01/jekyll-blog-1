@@ -1310,5 +1310,5 @@ adepto, cabalístico, trincar, *carrillo*, letanía, taciturno, arcada, sensato,
 [1]: http://www.amazon.com/Satan-quiere-Literatura-Spanish-Edition/dp/8439710186
 [2]: http://en.wikipedia.org/wiki/Robert_Irwin_(writer)
 
-[SatanMeQuiere_front]: /assets/SatanMeQuiere_front.jpg "Satán me quiere (portada)"
-[SatanMeQuiere_back]: /assets/SatanMeQuiere_back.jpg "Satán me quiere (contra-portada)"
+[SatanMeQuiere_front]: {{ site.baseurl }}/assets/SatanMeQuiere_front.jpg "Satán me quiere (portada)"
+[SatanMeQuiere_back]: {{ site.baseurl }}/assets/SatanMeQuiere_back.jpg "Satán me quiere (contra-portada)"
