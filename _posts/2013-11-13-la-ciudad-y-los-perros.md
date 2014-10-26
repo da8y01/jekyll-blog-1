@@ -212,7 +212,7 @@ El Jaguar hablando con el flaco Higueras le cuenta cómo fue su reencuentro con 
 
 
 
-## QUOTES
+## CITAS
 Confusamente, deseó perder la voluntad y la imaginación y ejecutar el plan como una máquina ciega. Pasaba días enteros abandonado a una rutina que decidía por él, empujado dulcemente a acciones que apenas notaba; ahora era distinto, se había impuesto lo de esta noche, sentía una lucidez insólita.
 
 Un movimiento próximo e inesperado devolvió a su cuerpo, como un puñetazo, el miedo que empezada a vencer.

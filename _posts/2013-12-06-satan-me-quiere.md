@@ -24,14 +24,14 @@ Corre el verano de 1967. Peter, un joven inglés adicto a las drogas y al pop ps
 
 Sally intenta que Peter deje la sociedad, consciente de que se encuentran en manos de una secta satánica. Sin embargo, Peter renunciará a la relación con su novia en favor de la secta. En los días que siguen a esta ruptura, Cosmic es expulsado y Peter, ascendido hasta un cargo muy importante; todo parece apuntar a que Peter se convertirá en uno de los líderes. No obstante, y para sorpresa de todos, el destino de Peter y sus compañeros será mucho más extraño de lo que cualquiera hubiera podido aventurar.
 
-Irwin ha llevado a cabo en esta novela un repaso irónico de las actitudes y vicios de los años sesenta, la parodia de la juventud hippy, del <<Swinging London>> y la psicodelia.
+Irwin ha llevado a cabo en esta novela un repaso irónico de las actitudes y vicios de los años sesenta, la parodia de la juventud hippy, del "Swinging London" y la psicodelia.
 
 
 
-## REVIEWS
-<<Una pura delicia. Alcanza momentos inolvidables; la recreación de los años sesenta en Londres son desternillantes.>> The Guardian
+## RESEÑAS
+"Una pura delicia. Alcanza momentos inolvidables; la recreación de los años sesenta en Londres son desternillantes." The Guardian
 
-<<Magistral, Irwin se ha superado. Una novela para todos los públicos.>> Time Out
+"Magistral, Irwin se ha superado. Una novela para todos los públicos." Time Out
 
 
 
@@ -254,7 +254,7 @@ Después del funeral de Maud Peter retoma los diarios para escribir a grosso mod
 
 
 
-## QUOTES
+## CITAS
 Cuando los agentes verdaderos se administran a los pacientes adecuados se producen efectos extraños y admirables.
 
 Es una pura sensación de misterio, de tal manera que incluso lo que es misterioso resulta misterioso.
