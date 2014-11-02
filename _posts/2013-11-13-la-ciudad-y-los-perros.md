@@ -2,7 +2,7 @@
 layout: post
 title:  "La ciudad y los perros - Mario Vargas Llosa"
 date:   2013-11-13 18:44:34
-tags: literatura literature review ciudad perros mario vargas llosa
+tags: literatura literature novela novel review ciudad perros mario vargas llosa la latinoamerica
 ---
 
 

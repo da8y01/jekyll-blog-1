@@ -2,7 +2,7 @@
 layout: post
 title:  "El fin de Alice - A. M. Homes"
 date:   2014-03-19 18:44:34
-tags: literatura literature review fin alice am homes
+tags: literatura literature novela novel review fin alice am homes
 ---
 
 
@@ -26,20 +26,20 @@ Al comienzo, el recluso y su corresponsal no muestran todas sus cartas, en un ju
 
 
 
-## REVIEWS
-<<La novela de A. M. Homes ha recibido los más encendidos elogios y las más enconadas críticas. Algunos críticos se han manifestado profundamente escandalizados... Pero "El fin de Alice" cumple con el papel asignado desde siempre a la mejor literatura: suscita arduas cuestiones de orden moral y nos hace pensar en lo Otro>> (Margot Livesey, Times Literary Supplement).
+## RESEÑAS
+"La novela de A. M. Homes ha recibido los más encendidos elogios y las más enconadas críticas. Algunos críticos se han manifestado profundamente escandalizados... Pero "El fin de Alice" cumple con el papel asignado desde siempre a la mejor literatura: suscita arduas cuestiones de orden moral y nos hace pensar en lo Otro" (Margot Livesey, Times Literary Supplement).
 
-<<Desde el epígrafe de Lewis Carroll, hasta el siniestro ritmo de la frase final, la autora nos conduce seducidos por un terrorífico laberinto de espejos que nos devuelven grotescas imágenes de nosotros mismos y de los protagonistas de su libro... La mejor novela que he leído este año: desgarradora, perturbadora, emocionante, todo lo que una novela debería ser>> (Elizabeth Young, The Independent).
+"Desde el epígrafe de Lewis Carroll, hasta el siniestro ritmo de la frase final, la autora nos conduce seducidos por un terrorífico laberinto de espejos que nos devuelven grotescas imágenes de nosotros mismos y de los protagonistas de su libro... La mejor novela que he leído este año: desgarradora, perturbadora, emocionante, todo lo que una novela debería ser" (Elizabeth Young, The Independent).
 
-<<A. M. Homes no es una autora para timoratos. Narrado por un pedófilo y asesino, el libro escandaliza, fascina, repele y excita al mismo tiempo y, en una escena inolvidable, construye para las bañeras una mitología tan atroz como la que urdió Hitchcock en "Psicosis" para las duchas>> (Vanity Fair).
+"A. M. Homes no es una autora para timoratos. Narrado por un pedófilo y asesino, el libro escandaliza, fascina, repele y excita al mismo tiempo y, en una escena inolvidable, construye para las bañeras una mitología tan atroz como la que urdió Hitchcock en "Psicosis" para las duchas" (Vanity Fair).
 
-<<Un provocativo ejercicio de sexualidad transgresora... Un inteligente y escalofriante tour de force efectuado por una escritora de enorme talento>> (Catherine Texier, Newsday).
+"Un provocativo ejercicio de sexualidad transgresora... Un inteligente y escalofriante tour de force efectuado por una escritora de enorme talento" (Catherine Texier, Newsday).
 
-<<Cada año, hay un libro que se convierte en la comidilla de los medios, una combinación de literatura y procacidad. Pero el último candidato es mucho más que eso. "El fin de Alice" es desde luego escandalosa, pero también es una novela catártica, que destruye nuestras certezas más obvias, la obra maestra de una verdadera artista de las palabras>> (Brian Masters, Vogue).
+"Cada año, hay un libro que se convierte en la comidilla de los medios, una combinación de literatura y procacidad. Pero el último candidato es mucho más que eso. "El fin de Alice" es desde luego escandalosa, pero también es una novela catártica, que destruye nuestras certezas más obvias, la obra maestra de una verdadera artista de las palabras" (Brian Masters, Vogue).
 
-<<Una "Lolita" para la era grunge>> (James Wolcott, Wall Street Journal).
+"Una "Lolita" para la era grunge" (James Wolcott, Wall Street Journal).
 
-<<Su protagonista, inteligente y culto, es un cruce entre Humbert Humbert de "Lolita" y Hannibal Lecter de "El silencio de los corderos">> (Marisa Rusconi, L'Espresso).
+"Su protagonista, inteligente y culto, es un cruce entre Humbert Humbert de 'Lolita' y Hannibal Lecter de 'El silencio de los corderos'" (Marisa Rusconi, L'Espresso).
 
 
 
@@ -95,15 +95,15 @@ De la chica, después del episodio de los fármacos la envían a Europa 21 días
 
 ### 16
 Es el siguiente día, Frazier ha vuelto a su celda, no hay desayuno, Henry pasa, intercambian palabras, los guardas llegan por Chappy, lo conducen a la sala del comité para una segunda tanda, va algo dopado, retoman el repaso de los hechos en el incidente del lago y la barca; en la cabaña Chappy empaca y tiene la intención de irse cuando se lo indiquen, al cuarto día Gwendolyn va a pedirle el favor de que las transporte al aeropuerto por una complicación de la abuela (apoplejía), en el camino los pasajeros discuten un poco, en el aeropuerto Alice hace su berrinche, Alice se va en carro con Chappy a New York, se encuentran en el hospital de New York, visitan a la abuela, van al hotel, al siguiente día Chappy está afuera todo el día, en la noche regresa, conduce hacia el norte del estado, se registra en un motel, le recomiendan un restaurante, en la sala de comité se analizan las fotos, le presentan fotos para que reconozca a Alice, en el restaurante después de hacer su pedido se encuentra con que Alice está allí, que lo ha seguido en el carro como polizón, AAlice presiona/inquiere/exhorta a Chappy para que haga cosas lujuriosas con ella en la mesa del restaurante, salen del restaurante y se dirigen a la habitación del motel en medio de la tempestad; en la habitación Alice se encierra en el baño, él se preocupa, resulta que Alice está menstruando, él intenta explicarle, pero Alice no entiende y está inconsolable, acusa a Chappy, le echa la culpa, le dice que la ha cortado; en la sala le siguen presentando fotos de ella al frente, se moja en los pantalones, Alice coge su cuchillo de caza, lo esgrime hacia él, lo amenaza, Chappy intenta explicarle y consolarla inútilmente, le preguntan insistentemente si reconoce a Alice, él asiente, Alice sigue gritando y acusando, él le arrebata el cuchillo, ella se acerca, se increpan, hasta que finalmente Chappy apuñala a Alice, después él sale de la habitación en medio de la tormenta, en la mañana él sigue afuera, la mujer de la limpieza lo encuentra; en la sala, los miembros del comité deciden simplemente continuar con la lectura del documento que describe la escena, las múltiples pruebas que lo condenan, su reacción ante la detención, etc.
-Al final él ddice que esa es toda la historia, que ha contado todo el cuento, que haga lo que quiera con él; le permiten pasar y quedar libre, se alegra de verle, y dice que la ha extrañado y que la ha pensado constantemente.
+Al final él dice que esa es toda la historia, que ha contado todo el cuento, que haga lo que quiera con él; le permiten pasar y quedar libre, se alegra de verle, y dice que la ha extrañado y que la ha pensado constantemente.
 
 
 
-## QUOTES
+## CITAS
 castigado por satisfacer sus apetitos.
 
 Entre los de mi género, lo que más me disgusta es la relucatancia a explorar, e incluso a reconocer, una atracción distinta a la propia.
-Nosotros -como los <<sanos>>- actuamos como si nuestro palacio de placer fuese superior, como si no existieran otros.
+Nosotros -como los "sanos"- actuamos como si nuestro palacio de placer fuese superior, como si no existieran otros.
 Esta falta de aprecio por un mundo de actividades más vasto me causa una tristeza que casi, maldita sea, lo estropea todo.
 ¿Por qué no festejar la gama completa?
 
@@ -112,7 +112,7 @@ La decadencia lo invade todo, dentro y fuera.
 porque su sintaxis, articulación y comprensión son todavía el lenguaje rebuscado y exiguo de la juventud.
 
 Ir con ella a la cabaña y explicarle las maniobras, sugirerle que acaso la repugnancia que le inspiran, el acceso de náusea, es su propia estructura interna agarrotada por el nacimiento de un deseo hasta entonces ignorado.
-Le sugeriría también que el impulso de <<arrojar>>, de verter tan nutritiva y rica pitanza como los tres o cuatro emparedados de mantequilla de cacahuates y jalea que ha ingerido debajo del olmo y junto a la canoa tan sólo una hora antes, no es tanto una señal de aversión como un síntoma de atracción, de hacer espacio para una posibilidad más amplia.
+Le sugeriría también que el impulso de "arrojar", de verter tan nutritiva y rica pitanza como los tres o cuatro emparedados de mantequilla de cacahuates y jalea que ha ingerido debajo del olmo y junto a la canoa tan sólo una hora antes, no es tanto una señal de aversión como un síntoma de atracción, de hacer espacio para una posibilidad más amplia.
 
 -¿Muy hecho o con la yema para untar? -Para untar -digo, eterno optimismo.
 
@@ -150,7 +150,7 @@ No puedo perdonarle la imbecilidad de su mensaje.
 
 Se mete pedazos de su cuerpo en la boca como si quisiera devorarse vivo.
 
-<<Luz de estrella, mi centella, la primera que ahora veo, ojalá pudiera, ojalá pudiese, obtener lo que deseo.>>
+"Luz de estrella, mi centella, la primera que ahora veo, ojalá pudiera, ojalá pudiese, obtener lo que deseo."
 
 Yo la asesiné. Creedme.
 
@@ -265,7 +265,7 @@ No hay un mundo real para el sonido que hago, pero es amplio y fuerte y desde el
 
 
 ## TÉRMINOS
-zafio, exiguo, espeluznante, mendicante, carcaj, aljaba, vaho, empapuzar, abrevadero, napia, exhortar, horadar, espetar, hirsuto, adminículo, abside, mejunje, ágape, zascandilear, linóleo, majo, postilla, cutícula, atrabiliario, atrabilis, senilidad, anafiláctico, anafilaxia, turgencia, turgente, barullo, conmoción, gorgorito, feble, parangón, asperjar, tórrido, renquear, renco, zoisia, apoteósis, estrépito, despotricar, ingente, voluta, cofia, pícaro, fuelle, ensalmo, lascivo, lascivia, lozano, perorata, supino, interludio, insulso, cutí, cogitación, cogitar, prolijidad, prolijo, exarcerbar, soso, mamparo, liento, parloteo, parlotear, bemol, ajado, ajar, nínfula, ninfa, horma, desparpajo, alijo, alijar, presidir, ímpetu, transfigurar, transfigurado, escotillón, leotardo, refocilar, cavilación, cavilar, arrebol, resuello, calistenia, carmín, mejorana, caústico, pertrechos, tumescencia, berrear, sibilante, catre, jocoso, gorjeo, jocundo, jarana, perdigonado, perdigón, proscenio, tramoya, aupar, prolífico, prolijo, adrede, tesela, desportillado, desportillar, portillo, encorsetar, encorsetado, corsé, borbotear, deambular, apogeo, efluvio, lacre, libido, fragor, pletismógrafo, ínfimo, histerectemia, histerectomía, darjeeling, parchís, parqués, cencerro, paladeo, paladear, beato, santino, idilio, dicción, alarde, pringue, avezado, avezar, bruces, desdeñar, desdén, flirtear, dádiva, concubina, pavonear, musitan, musitar, apear, desconsiderado, desconsideración, famélico, birlar, rezongar, horcajadas, despatarrado, despatarrar, hurgar, trivialidad, trivial, celada, quilla, escabullir, porche, farfullar, bastidor, desbarajuste, embalaje, sinuosidad, santiamén, cilicio, hucha, bicúspide, apoplejía, receloso, recelo, recelar, tiovivo, farra, beicon, merceditas, atavío, surgir, surge, histérico, histeria, horror, éxtasis, tono, sórdido, evidente, conducta, picor, escozor, arrebato, arrebatamiento, tranquillo, profuso, reluctancia, renuencia, vid, visillo, zafar, autoestop, precoz, holgazán, simpático, bollera, desperado, desperar, alhajas, liar, petate, rijoso, empalmar, insinuar, persuasión, persuadir, lisiado, lisiar, repiqueteo, repiquetear, escindir.
+***zafio***, **exiguo**, espeluznante, ***mendicante***, carcaj, aljaba, vaho, empapuzar, abrevadero, napia, exhortar, horadar, espetar, hirsuto, adminículo, abside, *mejunje*, ágape, **zascandilear**, linóleo, *majo*, *postilla*, cutícula, **atrabiliario**, **atrabilis**, senilidad, anafiláctico, anafilaxia, **turgencia**, **turgente**, *barullo*, conmoción, gorgorito, feble, *parangón*, asperjar, *tórrido*, renquear, renco, zoisia, apoteósis, estrépito, **despotricar**, **ingente**, voluta, cofia, pícaro, fuelle, ensalmo, lascivo, lascivia, lozano, **perorata**, supino, interludio, *insulso*, cutí, cogitación, cogitar, prolijidad, prolijo, exarcerbar, soso, mamparo, liento, parloteo, parlotear, bemol, ajado, ajar, nínfula, ninfa, horma, **desparpajo**, alijo, alijar, presidir, ímpetu, transfigurar, transfigurado, escotillón, leotardo, refocilar, cavilación, cavilar, *arrebol*, resuello, ***calistenia***, *carmín*, mejorana, caústico, *pertrechos*, **tumescencia**, berrear, sibilante, catre, jocoso, gorjeo, jocundo, jarana, perdigonado, perdigón, proscenio, tramoya, aupar, prolífico, prolijo, adrede, tesela, desportillado, desportillar, portillo, encorsetar, encorsetado, corsé, borbotear, deambular, apogeo, efluvio, lacre, libido, *fragor*, pletismógrafo, ínfimo, *histerectemia*, *histerectomía*, darjeeling, parchís, parqués, *cencerro*, paladeo, paladear, beato, santino, idilio, dicción, alarde, pringue, avezado, avezar, bruces, desdeñar, desdén, flirtear, dádiva, concubina, pavonear, musitan, musitar, apear, desconsiderado, desconsideración, famélico, birlar, rezongar, horcajadas, despatarrado, despatarrar, hurgar, trivialidad, trivial, celada, quilla, escabullir, porche, farfullar, bastidor, desbarajuste, embalaje, sinuosidad, *santiamén*, cilicio, hucha, bicúspide, apoplejía, receloso, recelo, recelar, tiovivo, farra, beicon, merceditas, atavío, surgir, surge, histérico, histeria, horror, éxtasis, tono, sórdido, evidente, conducta, picor, escozor, arrebato, arrebatamiento, tranquillo, profuso, reluctancia, renuencia, vid, visillo, zafar, ***autoestop***, precoz, holgazán, simpático, bollera, desperado, desperar, alhajas, liar, petate, rijoso, empalmar, insinuar, persuasión, persuadir, lisiado, lisiar, repiqueteo, repiquetear, escindir.
 
 
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Satán me quiere - Robert Irwin"
 date:   2013-12-06 18:44:34
-tags: literatura literature review satán quiere robert irwin
+tags: literatura literature novela novel review satán quiere wants robert irwin
 ---
 
 
