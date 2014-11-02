@@ -2,7 +2,7 @@
 layout: post
 title:  "A simple ruby twitter client"
 date:   2014-11-02 18:14:44
-tags: simple ruby twitter client dev development programming code
+tags: simple ruby twitter client dev development programming code tw
 ---
 
 
