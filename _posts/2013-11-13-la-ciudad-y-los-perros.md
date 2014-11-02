@@ -605,7 +605,7 @@ me sentía enfermo de miedo.
 
 como él lo mira con indiferencia, se encoge de hombros y cierra la puerta.
 
-Nunca le había visto esos atques de rabia, qué manera de temblarle la cara, qué palabrotas, lo quemo todo, los mato a todos, una noche incendiaremos el edificio de los oficiales, quisiera despanzurrar al coronel y ponerme sus tripas de corbata.
+Nunca le había visto esos ataques de rabia, qué manera de temblarle la cara, qué palabrotas, lo quemo todo, los mato a todos, una noche incendiaremos el edificio de los oficiales, quisiera despanzurrar al coronel y ponerme sus tripas de corbata.
 
 Debe estar enfermo, ésas no son maneras de persona sana, enfermo de la cabeza, loco perdido.
 
@@ -653,7 +653,7 @@ Ahora, veía en la penumbra sus ojos, no muy grandes, pero sí brillantes e inci
 
 su rostro no había variado, se mostravba severp y tranquilo.
 
-Su voz correspondía exactamente a sus ojos. Laas palabras eran respetuosas y las pronunciaba despacio, articulándolas con cierta sensualidad, pero el tono dejaba entrever una secreta arrogancia.
+Su voz correspondía exactamente a sus ojos. Las palabras eran respetuosas y las pronunciaba despacio, articulándolas con cierta sensualidad, pero el tono dejaba entrever una secreta arrogancia.
 
 Lo observó detenidamente, pero en vano; permanecía quieto y mudo. No parecía sorprendido ni atemorizado.
 

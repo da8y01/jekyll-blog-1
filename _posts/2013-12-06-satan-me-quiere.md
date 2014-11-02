@@ -912,7 +912,7 @@ El día era oscuro y estaba encapotado.
 Las larvas, o medio almas de los muertos que no tienen bastante fuerza de voluntad para separase de la existencia terrestre, sueñan en esta sala y en el resto de la casa.
 
 Al parecer, extrae su poder de las fantasías sexuales y las imágenes masturbatorias.
-Es especialmente peligroso repetir una fantasía masturbatoria, porque la segunda vez que uno se imagina a la mujer escasa de ropa o al tío cachas de turno, en esa imagen hay algo de Qlippoth, y a la larga esas imágenes fantásticas -con sus curvas, sus mohines, sus balanceos y sus señas incitantes- se convierten por completo en escalvas del Qlippoth.
+Es especialmente peligroso repetir una fantasía masturbatoria, porque la segunda vez que uno se imagina a la mujer escasa de ropa o al tío cachas de turno, en esa imagen hay algo de Qlippoth, y a la larga esas imágenes fantásticas -con sus curvas, sus mohines, sus balanceos y sus señas incitantes- se convierten por completo en esclavas del Qlippoth.
 
 Mi deseo de leerlo debe estar causado, supongo, por algún acontecimiento futuro.
 También me parece posible que yo haga cosas que no respondan a ninguna razón o motivo.
