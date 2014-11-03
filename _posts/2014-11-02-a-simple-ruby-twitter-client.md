@@ -25,7 +25,7 @@ config = {
 client = Twitter::REST::Client.new(config) # instantiate the working object
 
 client.update('Tweet from simple ruby client.') # execute a status update (a tweet)
-# perform as many other operations you want with the client object, read the gem page (references) ...
+# perform as many other operations you want with the client object, read the gem page (see "references") ...
 {% endhighlight %}
 
 
