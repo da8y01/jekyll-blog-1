@@ -3,7 +3,7 @@ name: Easy Engineering - Blog
 title: Easy Engineering - Blog
 email: blog@easy-eng.net
 description: "Miscellaneous posts from easy-eng.net site."
-baseurl: /jekyll-blog-1
+baseurl: /blog
 url: http://da8y01.github.io
 
 # Build settings
